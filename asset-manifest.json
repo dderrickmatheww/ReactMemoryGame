@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactMemoryGame/static/css/main.ae365aa3.chunk.css",
+    "main.js": "/ReactMemoryGame/static/js/main.7c95a987.chunk.js",
+    "main.js.map": "/ReactMemoryGame/static/js/main.7c95a987.chunk.js.map",
+    "runtime~main.js": "/ReactMemoryGame/static/js/runtime~main.5b9475f6.js",
+    "runtime~main.js.map": "/ReactMemoryGame/static/js/runtime~main.5b9475f6.js.map",
+    "static/js/2.884c28c3.chunk.js": "/ReactMemoryGame/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/ReactMemoryGame/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/ReactMemoryGame/index.html",
+    "precache-manifest.b0fc598d0c568349aa1b108476b6d438.js": "/ReactMemoryGame/precache-manifest.b0fc598d0c568349aa1b108476b6d438.js",
+    "service-worker.js": "/ReactMemoryGame/service-worker.js",
+    "static/css/main.ae365aa3.chunk.css.map": "/ReactMemoryGame/static/css/main.ae365aa3.chunk.css.map"
+  }
+}
